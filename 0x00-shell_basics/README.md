@@ -1,0 +1,1 @@
+shell_basic_project
